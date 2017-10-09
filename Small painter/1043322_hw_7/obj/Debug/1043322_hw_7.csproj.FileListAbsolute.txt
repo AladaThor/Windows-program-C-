@@ -1,0 +1,14 @@
+e:\文件\visual studio 2013\Projects\1043322_hw_7\1043322_hw_7\bin\Debug\1043322_hw_7.exe.config
+e:\文件\visual studio 2013\Projects\1043322_hw_7\1043322_hw_7\bin\Debug\1043322_hw_7.exe
+e:\文件\visual studio 2013\Projects\1043322_hw_7\1043322_hw_7\bin\Debug\1043322_hw_7.pdb
+e:\文件\visual studio 2013\Projects\1043322_hw_7\1043322_hw_7\obj\Debug\1043322_hw_7.csprojResolveAssemblyReference.cache
+e:\文件\visual studio 2013\Projects\1043322_hw_7\1043322_hw_7\obj\Debug\_1043322_hw_7.Form1.resources
+e:\文件\visual studio 2013\Projects\1043322_hw_7\1043322_hw_7\obj\Debug\_1043322_hw_7.Form2.resources
+e:\文件\visual studio 2013\Projects\1043322_hw_7\1043322_hw_7\obj\Debug\_1043322_hw_7.Form3.resources
+e:\文件\visual studio 2013\Projects\1043322_hw_7\1043322_hw_7\obj\Debug\_1043322_hw_7.Properties.Resources.resources
+e:\文件\visual studio 2013\Projects\1043322_hw_7\1043322_hw_7\obj\Debug\1043322_hw_7.csproj.GenerateResource.Cache
+e:\文件\visual studio 2013\Projects\1043322_hw_7\1043322_hw_7\obj\Debug\1043322_hw_7.exe
+e:\文件\visual studio 2013\Projects\1043322_hw_7\1043322_hw_7\obj\Debug\1043322_hw_7.pdb
+E:\文件\視窗程式設計\HW\1043322_hw_7\1043322_hw_7\bin\Debug\1043322_hw_7.exe.config
+E:\文件\視窗程式設計\HW\1043322_hw_7\1043322_hw_7\obj\Debug\1043322_hw_7.exe
+E:\文件\視窗程式設計\HW\1043322_hw_7\1043322_hw_7\obj\Debug\1043322_hw_7.pdb

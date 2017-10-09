@@ -1,0 +1,33 @@
+e:\文件\visual studio 2013\Projects\1043322_hw6\1043322_hw6\bin\Debug\1043322_hw6.exe.config
+e:\文件\visual studio 2013\Projects\1043322_hw6\1043322_hw6\obj\Debug\1043322_hw6.csprojResolveAssemblyReference.cache
+e:\文件\visual studio 2013\Projects\1043322_hw6\1043322_hw6\obj\Debug\_1043322_hw6.Form1.resources
+e:\文件\visual studio 2013\Projects\1043322_hw6\1043322_hw6\obj\Debug\_1043322_hw6.Properties.Resources.resources
+e:\文件\visual studio 2013\Projects\1043322_hw6\1043322_hw6\obj\Debug\1043322_hw6.csproj.GenerateResource.Cache
+e:\文件\visual studio 2013\Projects\1043322_hw6\1043322_hw6\bin\Debug\1043322_hw6.exe
+e:\文件\visual studio 2013\Projects\1043322_hw6\1043322_hw6\bin\Debug\1043322_hw6.pdb
+e:\文件\visual studio 2013\Projects\1043322_hw6\1043322_hw6\obj\Debug\1043322_hw6.exe
+e:\文件\visual studio 2013\Projects\1043322_hw6\1043322_hw6\obj\Debug\1043322_hw6.pdb
+C:\Users\iwill\Desktop\1043322_hw6\1043322_hw6\bin\Debug\1043322_hw6.exe.config
+C:\Users\iwill\Desktop\1043322_hw6\1043322_hw6\obj\Debug\1043322_hw6.exe
+C:\Users\iwill\Desktop\1043322_hw6\1043322_hw6\obj\Debug\1043322_hw6.pdb
+C:\Users\iwill\Desktop\1043322_hw6\1043322_hw6\bin\Debug\1043322_hw6.exe
+C:\Users\iwill\Desktop\1043322_hw6\1043322_hw6\bin\Debug\1043322_hw6.pdb
+C:\Users\iwill\Desktop\1043322_hw6\1043322_hw6\obj\Debug\1043322_hw6.csprojResolveAssemblyReference.cache
+C:\Users\iwill\Desktop\1043322_hw6\1043322_hw6\obj\Debug\_1043322_hw6.Form1.resources
+C:\Users\iwill\Desktop\1043322_hw6\1043322_hw6\obj\Debug\_1043322_hw6.Properties.Resources.resources
+C:\Users\iwill\Desktop\1043322_hw6\1043322_hw6\obj\Debug\1043322_hw6.csproj.GenerateResource.Cache
+E:\Downloads\1043322&1041654_hw6\1043322_hw6\bin\Debug\1043322_hw6.exe.config
+E:\Downloads\1043322&1041654_hw6\1043322_hw6\obj\Debug\1043322_hw6.exe
+E:\Downloads\1043322&1041654_hw6\1043322_hw6\obj\Debug\1043322_hw6.pdb
+E:\Downloads\1043322&1041654_hw6\1043322_hw6\bin\Debug\1043322_hw6.exe
+E:\Downloads\1043322&1041654_hw6\1043322_hw6\bin\Debug\1043322_hw6.pdb
+E:\Downloads\1043322&1041654_hw6\1043322_hw6\obj\Debug\1043322_hw6.csprojResolveAssemblyReference.cache
+E:\Downloads\1043322&1041654_hw6\1043322_hw6\obj\Debug\_1043322_hw6.Form1.resources
+E:\Downloads\1043322&1041654_hw6\1043322_hw6\obj\Debug\_1043322_hw6.Properties.Resources.resources
+E:\Downloads\1043322&1041654_hw6\1043322_hw6\obj\Debug\1043322_hw6.csproj.GenerateResource.Cache
+E:\文件\視窗程式設計\HW\1043322_hw6\1043322_hw6\bin\Debug\1043322_hw6.exe.config
+E:\文件\視窗程式設計\HW\1043322_hw6\1043322_hw6\obj\Debug\1043322_hw6.exe
+E:\文件\視窗程式設計\HW\1043322_hw6\1043322_hw6\obj\Debug\1043322_hw6.pdb
+E:\文件\視窗程式設計\HW\1043322_hw_6\1043322_hw6\bin\Debug\1043322_hw6.exe.config
+E:\文件\視窗程式設計\HW\1043322_hw_6\1043322_hw6\obj\Debug\1043322_hw6.exe
+E:\文件\視窗程式設計\HW\1043322_hw_6\1043322_hw6\obj\Debug\1043322_hw6.pdb
